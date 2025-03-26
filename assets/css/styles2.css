@@ -1,6 +1,5 @@
 h1 {
     color: #b41b1b
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2 {
@@ -27,12 +26,13 @@ p {
     color: #05400e;
     text-align: justify;
     /*text-align: right;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 span {
     color: yellow;
     font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
@@ -49,8 +49,4 @@ th {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-  }
-
-  label {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
